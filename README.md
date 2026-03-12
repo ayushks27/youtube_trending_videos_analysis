@@ -72,7 +72,7 @@ or
 use VS Code with required base kernel to run all snippets
 ```
 
-Author
+Author:
 
 Purnendu Raghav Srivastava
 
