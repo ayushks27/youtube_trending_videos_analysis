@@ -1,6 +1,7 @@
 <img src="./Youtube_logo.png" height="90" style='margin: auto;'>
 
 # YouTube Trending Video Analysis
+[![View Notebook](https://img.shields.io/badge/View-Notebook-blue)](https://nbviewer.org/github/ayushks27/youtube_trending_videos_analysis/blob/main/index.ipynb)
 
 ## Overview
 
